@@ -1,0 +1,4 @@
+Lab10.cpp: In function 'int main()':
+Lab10.cpp:39:5: warning: 'highest_student_cgpa' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   39 |     if (student_cgpa > highest_student_cgpa) {
+      |     ^~

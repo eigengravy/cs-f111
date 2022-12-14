@@ -1,0 +1,12 @@
+OK - [] is palindrome
+OK - [1] is palindrome
+OK - [1, 2] is not a palindrome
+OK - [1, 1] is a palindrome
+OK - [1, 2, 1] is a palindrome
+OK - [1, 2, 3, 4, 2, 1] is not a palindrome
+OK - [] is nondecreasing
+OK - [1] is nondecreasing
+OK - [1, 2] is nondecreasing
+OK - [2, 1] is not nondecreasing
+OK - [1, 2, 2, 3] is nondecreasing
+OK - [1, 2, 2, 1, 3] is not nondecreasing

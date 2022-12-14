@@ -1,0 +1,15 @@
+OK - avg is 46
+OK - avg is 55
+OK - avg is 54
+OK - min is 20
+OK - min is 33
+OK - min is 12
+OK - max is 70
+OK - max is 86
+OK - max is 98
+OK - 2 people are below avg
+OK - 3 people are below avg
+OK - 4 people are below avg
+OK - 3 people are above avg
+OK - 3 people are above avg
+OK - 5 people are above avg

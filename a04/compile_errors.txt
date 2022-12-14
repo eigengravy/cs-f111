@@ -1,0 +1,21 @@
+A4.cpp: In function 'int total_score(scorecard*)':
+A4.cpp:44:21: warning: comparison of integer expressions of different signedness: 'int' and 'long unsigned int' [-Wsign-compare]
+   44 |   for (int i = 0; i < sc->batsmen_scores.size(); i++)
+      |                   ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~
+A4.cpp: In function 'int highest_score(scorecard*)':
+A4.cpp:57:21: warning: comparison of integer expressions of different signedness: 'int' and 'long unsigned int' [-Wsign-compare]
+   57 |   for (int i = 0; i < sc->batsmen_scores.size(); i++)
+      |                   ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~
+A4.cpp: In function 'cp::string report(scorecard*, scorecard*)':
+A4.cpp:132:21: warning: comparison of integer expressions of different signedness: 'int' and 'long unsigned int' [-Wsign-compare]
+  132 |   for (int i = 0; i < t1->batsmen_scores.size(); i++)
+      |                   ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~
+A4.cpp:140:21: warning: comparison of integer expressions of different signedness: 'int' and 'long unsigned int' [-Wsign-compare]
+  140 |   for (int i = 0; i < t2->batsmen_scores.size(); i++)
+      |                   ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~
+A4.cpp:149:21: warning: comparison of integer expressions of different signedness: 'int' and 'long unsigned int' [-Wsign-compare]
+  149 |   for (int i = 0; i < highest_score_batsmen.size(); i++)
+      |                   ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A4.cpp:152:11: warning: comparison of integer expressions of different signedness: 'int' and 'long unsigned int' [-Wsign-compare]
+  152 |     if (i < highest_score_batsmen.size() - 1)
+      |         ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

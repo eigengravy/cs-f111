@@ -1,0 +1,23 @@
+OK - 5 should be inserted at index 0
+OK - ranks has one element
+OK - ranks is [4]
+OK - 4 is removed
+OK - ranks is empty after removing 4
+OK - 5 should be inserted at index 0
+OK - ranks has one element after inserting 5
+OK - ranks is [5] after inserting 5
+OK - ranks is [5, 7] after inserting 7
+OK - ranks is [2, 5, 7] after inserting 2
+OK - 2 is removed
+OK - ranks is [5, 7] after removing 2
+OK - 7 should be inserted at index 0
+OK - ranks2 has one element
+OK - ranks2 is [2]
+OK - 7 should be inserted at index 1
+OK - ranks2 has two elements
+OK - ranks2 is [2, 7]
+OK - 2 is removed
+OK - ranks2 is [7] after removing 2
+OK - 7 is removed
+OK - ranks2 is empty after removing 7
+OK - ranks2 is empty

@@ -1,0 +1,4 @@
+main.cpp: In function 'cp::list_double hours_to_wages_rate_limit(cp::list_double, double)':
+main.cpp:27:12: warning: comparison of integer expressions of different signedness: 'int' and 'long unsigned int' [-Wsign-compare]
+   27 |   while (i < hours.size())
+      |          ~~^~~~~~~~~~~~~~

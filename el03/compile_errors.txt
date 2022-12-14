@@ -1,0 +1,16 @@
+EL03.cpp: In function 'int min(cp::list_int)':
+EL03.cpp:29:20: warning: comparison of integer expressions of different signedness: 'int' and 'long unsigned int' [-Wsign-compare]
+   29 |   for (int i = 0; i< marks.size();i++) {
+      |                   ~^~~~~~~~~~~~~~
+EL03.cpp: In function 'int max(cp::list_int)':
+EL03.cpp:45:20: warning: comparison of integer expressions of different signedness: 'int' and 'long unsigned int' [-Wsign-compare]
+   45 |   for (int i = 0; i< marks.size();i++) {
+      |                   ~^~~~~~~~~~~~~~
+EL03.cpp: In function 'int count_below_average(cp::list_int)':
+EL03.cpp:62:21: warning: comparison of integer expressions of different signedness: 'int' and 'long unsigned int' [-Wsign-compare]
+   62 |   for (int i = 0; i < marks.size(); i++)
+      |                   ~~^~~~~~~~~~~~~~
+EL03.cpp: In function 'int count_above_average(cp::list_int)':
+EL03.cpp:80:21: warning: comparison of integer expressions of different signedness: 'int' and 'long unsigned int' [-Wsign-compare]
+   80 |   for (int i = 0; i < marks.size(); i++)
+      |                   ~~^~~~~~~~~~~~~~

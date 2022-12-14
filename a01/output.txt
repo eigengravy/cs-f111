@@ -1,0 +1,2 @@
+All Task 1 tests passed.
+All Task 2 tests passed.

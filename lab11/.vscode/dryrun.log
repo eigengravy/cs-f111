@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/Users/swaroop/git/CP/Lab11'
+./Lab11 
+make: Leaving directory `/Users/swaroop/git/CP/Lab11'
+ 

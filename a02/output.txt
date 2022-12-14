@@ -1,0 +1,29 @@
+[1, 2]
+[2, 4]
+--- Task 1 done ---
+OK - first size
+OK - second size
+OK - third size
+OK - fourth size
+--- Task 2 done ---
+OK - first contains 1
+OK - first does not contain 4
+OK - third contains 3
+OK - fourth does not contain 4
+--- Task 3 done ---
+OK - 6 inserted in second
+OK - 6 inserted in third
+OK - 4 inserted in fourth
+--- Task 4 done ---
+OK - 4 removed from second
+OK - 3 removed from third
+OK - 10 removed from fourth
+--- Task 5 done ---
+OK - first ^ second
+OK - third ^ fourth
+OK - first ^ fourth
+--- Task 6 done ---
+OK - first U second
+OK - third U fourth
+OK - second U third
+--- Task 7 done ---

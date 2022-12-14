@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  assignment-container:
+    build: . # Dockerfile (case sensitive) relative location from which container made
+    volumes: 
+      - ..:/usr/src/assignment # mounting of type bind but in relative(to .yml) path style
+    stdin_open: true # docker run -i
+    tty: true        # docker run -t
+    command: bash
+    container_name: A1 # container name will be exactly this

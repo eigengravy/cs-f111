@@ -1,0 +1,15 @@
+OK - count_occurrence({1, 2, 3, 1}, 1)
+OK - count_occurrence({1, 2, 3, 1}, 2)
+OK - count_occurrence({1, 2, 3, 1}, 9)
+OK - count_occurrence({}, 1)
+OK - count_occurrence({1, -1, 2, 0, 2, 2, 0, 0}, -1)
+OK - count_occurrence({1, -1, 2, 0, 2, 2, 0, 0}, 0)
+OK - count_occurrence({1, -1, 2, 0, 2, 2, 0, 0}, 10)
+--- Task 1 testing done ---
+OK - dominant_element({1, 2, 3, 1})
+OK - dominant_element({1, 2, 1, 2})
+OK - dominant_element({1, 2, 3})
+OK - dominant_element({1, 2, 1, 2, 2})
+OK - dominant_element({3})
+OK - dominant_element({3, 3, 1, 1, 1, 3})
+--- Task 2 testing done ---
